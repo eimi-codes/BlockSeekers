@@ -1,5 +1,7 @@
 # Block Seekers
 
+[![Open Source](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![Built with ❤️](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+
 Block Seekers is a Minecraft Mod that adds the game Hide and Seek to Minecraft (Java Edition).
 
 ## Features

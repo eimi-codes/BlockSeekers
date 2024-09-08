@@ -29,3 +29,6 @@ Using commands requires Server Operator permissions.
 
 Forge/NF/Fabric TBC
 
+## License
+
+[Licensed under the EUPL-v1.2](LICENSE.md) License.

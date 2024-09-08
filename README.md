@@ -10,6 +10,9 @@ Block Seekers is a Minecraft Mod that adds the game Hide and Seek to Minecraft (
 - Option to have caught players go 'out' and put into Spectator mode or moved to the Seekers team
 - Time-limit options
 - Game boundary settings
+- Hider names will be hidden during the game
+- Tracks (tbc)
+- Camoflague options (tbc)
 
 ## Commands
 

@@ -18,8 +18,10 @@ Using commands requires Server Operator permissions.
 - `/blockseekers time [time]` - Sets the time limit for the game
 - `/blockseekers boundary` - Gives you the Seeking Boundary wand to set the play area
 - `/blockseekers seeker [random/USERNAME]` - Sets the initial Seeker to be random or the named player
-- `/blockseekers info` - Displays the current game settings
-- `/blockseekers stop` - Stops the game
+- `/blockseekers info` - Displays the current game settings (Alias: `/blockseekers settings`)
+- `/blockseekers stop` - Stops the game (Alias: `/blockseekers end` and `/blockseekers halt`)
+- `/blockseekers reset` - Resets the game to it's initial state
+- `/blockseekers help` - Displays the help message
 
 ## Installation
 

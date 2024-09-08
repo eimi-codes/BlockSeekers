@@ -34,7 +34,6 @@ Installation instructions for Forge, NF, and Fabric are coming soon. Stay tuned!
 
 ## Contributing
 
-```markdown
 This project is licensed under the [EUPL-v1.2](LICENSE.md) License.
 
 ## Contact
